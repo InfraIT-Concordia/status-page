@@ -1,6 +1,5 @@
-# Change these first
 owner: InfraIT-Concordia
-repo: Servicios-Web
+repo: status-page
 
 sites:
   - name: Portal Municipal Concordia

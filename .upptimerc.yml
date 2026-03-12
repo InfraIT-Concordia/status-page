@@ -9,7 +9,7 @@ sites:
 
 status-website:
   # Aquí pones el subdominio que vas a usar
-  cname: status.concordia.gob.ar 
+  cname: status2.concordia.gob.ar 
   # baseUrl debe estar comentado o borrado si usas CNAME
   # baseUrl: /Servicios-Web 
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg

@@ -7,12 +7,9 @@ sites:
     method: GET
 
 status-website:
-  # Aquí pones el subdominio que vas a usar
   cname: status2.concordia.gob.ar 
-  # baseUrl debe estar comentado o borrado si usas CNAME
-  # baseUrl: /Servicios-Web 
-  logoUrl: https://www.google.com/search?client=firefox-b-lm&hs=XHB&sca_esv=d087776caa853f74&sxsrf=ANbL-n6ilcIna-JZ-TUw0HqdGW6TTdQ33g:1773417488193&udm=2&fbs=ADc_l-bpk8W4E-qsVlOvbGJcDwpn60DczFdcvPnuv8WQohHLTbSVldBrj9mdwFjfwIgEUgRUQrTHdCNNATwvR9YGxTk7nM84BnPcSQR6u0ChpNaodcsCxaHcsuoFflQQNDOFqh8S6XiA66hi7wygaDbBCKV1fW-_iePP9Hwsq3I9cs5Cusc2xqQBMNBL-jr7zqw7IMVDnnpc8AQzLQxf5Qmcm2rkG4qJKw&q=logo+municipalidad+concordia&sa=X&ved=2ahUKEwiairD7np2TAxX4ILkGHX9BJPEQtKgLegQIFRAB&biw=1920&bih=932&dpr=1#sv=CAMSVhoyKhBlLVlPblVqRG45WmpMcXFNMg5ZT25VakRuOVpqTHFxTToOYllRckFlSzJRS2psbU0gBCocCgZtb3NhaWMSEGUtWU9uVWpEbjlaakxxcU0YADABGAcgktO_3AMwAkoIEAIYAiACKAI
-  name: Monitoreo Concordia.
+  logoUrl: https://concordia.gob.ar/sites/default/files/logo-municipalidad-concordia.png
+  name: Monitoreo Concordia
   introTitle: "Panel de Estado de Servicios - Concordia"
   introMessage: Monitoreo en tiempo real de la infraestructura web de la ciudad.
   navbar:
@@ -20,4 +17,15 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/InfraIT-Concordia/status-page
+  
+  # Traducción a Español
+  i18n:
+    activeStatus: Estado en Vivo
+    allSystemsOperational: Todos los sistemas funcionando
+    degradedPerformance: Rendimiento degradado
+    majorOutage: Caída total del servicio
+    partialOutage: Caída parcial
+    incidentHistory: Historial de incidentes
+    overallPageStatus: Estado general del panel
 
+    

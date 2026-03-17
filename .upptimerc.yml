@@ -5,6 +5,12 @@ sites:
   - name: Portal Municipal Concordia
     url: https://concordia.gob.ar
     method: GET
+  - name: Recursos Humanos (RRHH)
+    url: https://rrhh.concordia.gob.ar
+    method: GET
+  - name: Nube Concordia
+    url: https://nube.concordia.ar
+    method: GET
 
 status-website:
   cname: status2.concordia.gob.ar 
@@ -18,14 +24,31 @@ status-website:
     - title: GitHub
       href: https://github.com/InfraIT-Concordia/status-page
   
-  # Traducción a Español
+  # Traducción completa al Español
   i18n:
-    activeStatus: Estado en Vivo
-    allSystemsOperational: Todos los sistemas funcionando
+    activeStatus: Estado en vivo
+    allSystemsOperational: Todos los sistemas funcionan correctamente
     degradedPerformance: Rendimiento degradado
     majorOutage: Caída total del servicio
     partialOutage: Caída parcial
     incidentHistory: Historial de incidentes
     overallPageStatus: Estado general del panel
+    uptime: Tiempo de actividad
+    averageResponseTime: Tiempo medio de respuesta
+    responseTimeGraphAlt: Gráfico de tiempo de respuesta
+    liveStatus: Estado actual
+    all: Todo
+    day: Día
+    month: Mes
+    year: Año
+    overallUptime: Tiempo de actividad total
+    overallUptimePublic: Tiempo de actividad (público)
+    status: Estado
+    history: Historial
+    ms: ms
+    loading: Cargando...
+    up: En línea
+    down: Caído
+    degraded: Degradado
 
     

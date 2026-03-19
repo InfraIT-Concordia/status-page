@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 2838,
     "timeDay": 2589,
-    "timeWeek": 2838,
+    "timeWeek": 2531,
     "timeMonth": 2838,
     "timeYear": 2838,
     "dailyMinutesDown": {}
@@ -22,9 +22,9 @@
     "url": "https://rrhh.concordia.gob.ar",
     "icon": "https://icons.duckduckgo.com/ip3/rrhh.concordia.gob.ar.ico",
     "slug": "recursos-humanos-rrhh",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1525,
     "timeMonth": 1525,
     "timeYear": 1525,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-19": 0
+    }
   },
   {
     "name": "Nube Concordia",

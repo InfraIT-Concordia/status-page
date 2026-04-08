@@ -4,9 +4,9 @@
     "url": "https://concordia.gob.ar",
     "icon": "https://icons.duckduckgo.com/ip3/concordia.gob.ar.ico",
     "slug": "portal-municipal-concordia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "90.72%",
+    "uptimeDay": "90.68%",
     "uptimeWeek": "98.67%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.66%",
@@ -16,7 +16,7 @@
     "timeMonth": 2714,
     "timeYear": 2714,
     "dailyMinutesDown": {
-      "2026-04-08": 134
+      "2026-04-08": 135
     }
   },
   {
@@ -24,18 +24,19 @@
     "url": "https://rrhh.concordia.gob.ar",
     "icon": "https://icons.duckduckgo.com/ip3/rrhh.concordia.gob.ar.ico",
     "slug": "recursos-humanos-rrhh",
-    "status": "up",
-    "uptime": "97.83%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.85%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.83%",
-    "uptimeYear": "97.83%",
+    "uptimeMonth": "97.85%",
+    "uptimeYear": "97.85%",
     "time": 1725,
     "timeDay": 1432,
     "timeWeek": 2077,
     "timeMonth": 1725,
     "timeYear": 1725,
     "dailyMinutesDown": {
+      "2026-04-08": 0,
       "2026-03-20": 308,
       "2026-03-19": 374
     }

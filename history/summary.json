@@ -10,15 +10,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.51%",
-    "time": 2706,
-    "timeDay": 2724,
-    "timeWeek": 2676,
+    "time": 2702,
+    "timeDay": 2282,
+    "timeWeek": 2629,
     "timeMonth": 2757,
-    "timeYear": 2706,
+    "timeYear": 2702,
     "dailyMinutesDown": {
-      "2026-05-04": 133,
+      "2026-04-08": 352,
       "2026-04-12": 32,
-      "2026-04-08": 352
+      "2026-05-04": 133
     }
   },
   {
@@ -27,22 +27,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/rrhh.concordia.gob.ar.ico",
     "slug": "recursos-humanos-rrhh",
     "status": "up",
-    "uptime": "98.97%",
+    "uptime": "98.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "98.97%",
-    "time": 1797,
-    "timeDay": 2016,
-    "timeWeek": 2162,
-    "timeMonth": 1963,
-    "timeYear": 1797,
+    "uptimeYear": "98.98%",
+    "time": 1799,
+    "timeDay": 1953,
+    "timeWeek": 2100,
+    "timeMonth": 1977,
+    "timeYear": 1799,
     "dailyMinutesDown": {
-      "2026-05-05": 72,
-      "2026-04-12": 31,
-      "2026-04-08": 218,
       "2026-03-20": 308,
-      "2026-03-19": 374
+      "2026-03-19": 374,
+      "2026-04-08": 218,
+      "2026-04-12": 31,
+      "2026-05-05": 72
     }
   },
   {
@@ -56,11 +56,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2296,
-    "timeDay": 3366,
-    "timeWeek": 2738,
-    "timeMonth": 2570,
-    "timeYear": 2296,
+    "time": 2308,
+    "timeDay": 3109,
+    "timeWeek": 2873,
+    "timeMonth": 2601,
+    "timeYear": 2308,
     "dailyMinutesDown": {}
   }
 ]

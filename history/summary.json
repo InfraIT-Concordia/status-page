@@ -50,7 +50,7 @@
     "url": "https://nube.concordia.ar",
     "icon": "https://icons.duckduckgo.com/ip3/nube.concordia.ar.ico",
     "slug": "nube-concordia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -61,6 +61,8 @@
     "timeWeek": 2963,
     "timeMonth": 2708,
     "timeYear": 2336,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-28": 0
+    }
   }
 ]

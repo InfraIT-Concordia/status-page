@@ -26,17 +26,17 @@
     "url": "https://rrhh.concordia.gob.ar",
     "icon": "https://icons.duckduckgo.com/ip3/rrhh.concordia.gob.ar.ico",
     "slug": "recursos-humanos-rrhh",
-    "status": "down",
-    "uptime": "98.76%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "98.26%",
-    "uptimeMonth": "98.80%",
-    "uptimeYear": "98.76%",
-    "time": 2545,
-    "timeDay": 17004,
-    "timeWeek": 8134,
-    "timeMonth": 3885,
-    "timeYear": 2545,
+    "status": "up",
+    "uptime": "98.58%",
+    "uptimeDay": "84.10%",
+    "uptimeWeek": "97.73%",
+    "uptimeMonth": "98.28%",
+    "uptimeYear": "98.58%",
+    "time": 2540,
+    "timeDay": 12015,
+    "timeWeek": 5420,
+    "timeMonth": 3835,
+    "timeYear": 2540,
     "dailyMinutesDown": {
       "2026-03-20": 308,
       "2026-03-19": 374,
@@ -45,7 +45,7 @@
       "2026-05-05": 72,
       "2026-06-01": 351,
       "2026-06-04": 175,
-      "2026-06-11": 0
+      "2026-06-11": 229
     }
   },
   {

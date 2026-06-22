@@ -21,7 +21,7 @@ sites:
     group: Sitios Web
 
   # Servidor SOS
-    - name: SOS - Sitio Web
+  - name: SOS - Sitio Web
     url: https://sos.concordia.gob.ar
     method: GET
     group: Servidor SOS

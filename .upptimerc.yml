@@ -1,36 +1,29 @@
 owner: InfraIT-Concordia
 repo: status-page
 sites:
-  # Sitios Web
   - name: Portal Municipal Concordia
     url: https://concordia.gob.ar
     method: GET
     maxResponseTime: 4000
     group: Sitios Web
-
   - name: Recursos Humanos (RRHH)
     url: https://rrhh.concordia.gob.ar
     method: GET
     maxResponseTime: 4000
     group: Sitios Web
-
   - name: Nube Concordia
     url: https://nube.concordia.ar
     method: GET
     maxResponseTime: 5000
     group: Sitios Web
-
-  # Servidor SOS
   - name: SOS - Sitio Web
     url: https://sos.concordia.gob.ar
     method: GET
     group: Servidor SOS
-
   - name: SOS - HTTPS (443)
     url: tcp-ping://172.16.0.51:443
     group: Servidor SOS
     secret: true
-
   - name: SOS - HTTP (80)
     url: tcp-ping://172.16.0.51:80
     group: Servidor SOS

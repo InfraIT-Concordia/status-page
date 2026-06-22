@@ -20,12 +20,8 @@ sites:
     url: https://sos.concordia.gob.ar
     method: GET
     group: Servidor SOS
-  - name: SOS - HTTPS (443)
-    url: tcp-ping://172.16.0.51:443
-    group: Servidor SOS
-    secret: true
   - name: SOS - HTTP (80)
-    url: tcp-ping://172.16.0.51:80
+    url: tcp-ping://172.16.0.51
     group: Servidor SOS
     secret: true
 

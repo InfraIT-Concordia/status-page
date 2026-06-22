@@ -21,22 +21,24 @@ sites:
     method: GET
     group: Servidor SOS
     
-    - name: EM Concordia
+  
+  - name: EM Concordia
     url: https://em.concordia.gob.ar
     method: GET
     group: Estacionamiento Medido
 
-    - name: EM Punto Venta
+
+  - name: EM Punto Venta
     url: https://em-punto-venta.concordia.gob.ar
     method: GET
     group: Estacionamiento Medido
 
-    - name: Medido Extra
+  - name: Medido Extra
     url: https://medido-extra.concordia.gob.ar
     method: GET
     group: Estacionamiento Medido
     
-   - name: SMS Mensajería
+  - name: SMS Mensajería
     url: https://sms.concordia.gob.ar
     method: GET
     group: Estacionamiento Medido

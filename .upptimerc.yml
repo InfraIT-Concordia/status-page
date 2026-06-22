@@ -20,10 +20,26 @@ sites:
     url: https://sos.concordia.gob.ar
     method: GET
     group: Servidor SOS
-  - name: SOS - HTTP (80)
-    url: tcp-ping://172.16.0.51
-    group: Servidor SOS
-    secret: true
+    
+    - name: EM Concordia
+    url: https://em.concordia.gob.ar
+    method: GET
+    group: Estacionamiento Medido
+
+    - name: EM Punto Venta
+    url: https://em-punto-venta.concordia.gob.ar
+    method: GET
+    group: Estacionamiento Medido
+
+    - name: Medido Extra
+    url: https://medido-extra.concordia.gob.ar
+    method: GET
+    group: Estacionamiento Medido
+    
+   - name: SMS Mensajería
+    url: https://sms.concordia.gob.ar
+    method: GET
+    group: Estacionamiento Medido
 
 status-website:
   cname: status2.concordia.gob.ar

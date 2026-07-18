@@ -1,7 +1,7 @@
 url: https://rrhh.concordia.gob.ar
-status: degraded
-code: 502
-responseTime: 4363
-lastUpdated: 2026-07-18T20:10:12.278Z
+status: up
+code: 200
+responseTime: 2346
+lastUpdated: 2026-07-18T21:04:09.241Z
 startTime: 2026-03-17T16:01:18.840Z
 generator: Upptime <https://github.com/upptime/upptime>

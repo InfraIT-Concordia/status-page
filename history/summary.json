@@ -4,24 +4,24 @@
     "url": "https://concordia.gob.ar",
     "icon": "https://icons.duckduckgo.com/ip3/concordia.gob.ar.ico",
     "slug": "portal-municipal-concordia",
-    "status": "degraded",
-    "uptime": "99.46%",
-    "uptimeDay": "98.34%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.46%",
-    "time": 2756,
-    "timeDay": 8213,
-    "timeWeek": 4086,
-    "timeMonth": 2978,
-    "timeYear": 2756,
+    "status": "up",
+    "uptime": "99.44%",
+    "uptimeDay": "95.62%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.44%",
+    "time": 2754,
+    "timeDay": 6262,
+    "timeWeek": 3895,
+    "timeMonth": 2959,
+    "timeYear": 2754,
     "dailyMinutesDown": {
       "2026-04-08": 352,
       "2026-04-12": 32,
       "2026-05-04": 133,
       "2026-07-04": 60,
       "2026-07-18": 666,
-      "2026-08-21": 24
+      "2026-08-21": 63
     }
   },
   {
@@ -59,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nube.concordia.ar.ico",
     "slug": "nube-concordia",
     "status": "up",
-    "uptime": "99.09%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.09%",
+    "uptime": "99.10%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.10%",
     "time": 2599,
     "timeDay": 2834,
     "timeWeek": 3012,
@@ -72,8 +72,7 @@
     "dailyMinutesDown": {
       "2026-05-29": 652,
       "2026-05-28": 663,
-      "2026-07-18": 717,
-      "2026-08-21": 14
+      "2026-07-18": 717
     }
   },
   {
@@ -82,19 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sos.concordia.gob.ar.ico",
     "slug": "sos-sitio-web",
     "status": "up",
-    "uptime": "99.22%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.22%",
+    "uptime": "99.23%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.23%",
     "time": 2551,
     "timeDay": 2399,
     "timeWeek": 2501,
     "timeMonth": 2512,
     "timeYear": 2551,
     "dailyMinutesDown": {
-      "2026-07-18": 665,
-      "2026-08-21": 9
+      "2026-07-18": 665
     }
   },
   {

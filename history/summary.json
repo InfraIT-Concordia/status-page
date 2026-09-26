@@ -4,16 +4,16 @@
     "url": "https://concordia.gob.ar",
     "icon": "https://icons.duckduckgo.com/ip3/concordia.gob.ar.ico",
     "slug": "portal-municipal-concordia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.20%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.49%",
-    "uptimeMonth": "97.91%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "97.83%",
     "uptimeYear": "99.20%",
     "time": 2743,
-    "timeDay": 2980,
-    "timeWeek": 2770,
-    "timeMonth": 2698,
+    "timeDay": 0,
+    "timeWeek": 2807,
+    "timeMonth": 2695,
     "timeYear": 2743,
     "dailyMinutesDown": {
       "2026-04-08": 352,
@@ -28,7 +28,8 @@
       "2026-09-07": 335,
       "2026-09-10": 242,
       "2026-09-15": 110,
-      "2026-09-23": 152
+      "2026-09-23": 152,
+      "2026-09-26": 34
     }
   },
   {
@@ -36,16 +37,16 @@
     "url": "https://rrhh.concordia.gob.ar",
     "icon": "https://icons.duckduckgo.com/ip3/rrhh.concordia.gob.ar.ico",
     "slug": "recursos-humanos-rrhh",
-    "status": "up",
+    "status": "down",
     "uptime": "98.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.54%",
-    "uptimeMonth": "97.97%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "98.25%",
+    "uptimeMonth": "97.90%",
     "uptimeYear": "98.76%",
     "time": 2360,
-    "timeDay": 2329,
-    "timeWeek": 2168,
-    "timeMonth": 2220,
+    "timeDay": 0,
+    "timeWeek": 2166,
+    "timeMonth": 2214,
     "timeYear": 2360,
     "dailyMinutesDown": {
       "2026-03-20": 308,
@@ -64,7 +65,8 @@
       "2026-09-07": 331,
       "2026-09-10": 237,
       "2026-09-15": 105,
-      "2026-09-23": 147
+      "2026-09-23": 147,
+      "2026-09-26": 29
     }
   },
   {
@@ -72,16 +74,16 @@
     "url": "https://nube.concordia.ar",
     "icon": "https://icons.duckduckgo.com/ip3/nube.concordia.ar.ico",
     "slug": "nube-concordia",
-    "status": "up",
+    "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.59%",
-    "uptimeMonth": "98.02%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "97.96%",
     "uptimeYear": "98.94%",
     "time": 2639,
-    "timeDay": 2158,
-    "timeWeek": 2835,
-    "timeMonth": 2859,
+    "timeDay": 0,
+    "timeWeek": 2818,
+    "timeMonth": 2842,
     "timeYear": 2639,
     "dailyMinutesDown": {
       "2026-05-29": 652,
@@ -93,7 +95,8 @@
       "2026-09-07": 326,
       "2026-09-10": 232,
       "2026-09-15": 100,
-      "2026-09-23": 142
+      "2026-09-23": 142,
+      "2026-09-26": 25
     }
   },
   {
@@ -101,16 +104,16 @@
     "url": "https://sos.concordia.gob.ar",
     "icon": "https://icons.duckduckgo.com/ip3/sos.concordia.gob.ar.ico",
     "slug": "sos-sitio-web",
-    "status": "up",
-    "uptime": "98.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.63%",
-    "uptimeMonth": "98.07%",
-    "uptimeYear": "98.88%",
+    "status": "down",
+    "uptime": "98.87%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "98.44%",
+    "uptimeMonth": "98.03%",
+    "uptimeYear": "98.87%",
     "time": 2543,
-    "timeDay": 2524,
-    "timeWeek": 2649,
-    "timeMonth": 2542,
+    "timeDay": 0,
+    "timeWeek": 2653,
+    "timeMonth": 2534,
     "timeYear": 2543,
     "dailyMinutesDown": {
       "2026-07-18": 665,
@@ -120,7 +123,8 @@
       "2026-09-07": 321,
       "2026-09-10": 227,
       "2026-09-15": 96,
-      "2026-09-23": 138
+      "2026-09-23": 138,
+      "2026-09-26": 20
     }
   },
   {
@@ -128,16 +132,16 @@
     "url": "https://em.concordia.gob.ar",
     "icon": "https://icons.duckduckgo.com/ip3/em.concordia.gob.ar.ico",
     "slug": "em-concordia",
-    "status": "up",
+    "status": "down",
     "uptime": "98.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.68%",
-    "uptimeMonth": "98.13%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "98.54%",
+    "uptimeMonth": "98.10%",
     "uptimeYear": "98.86%",
     "time": 1161,
-    "timeDay": 1231,
-    "timeWeek": 1158,
-    "timeMonth": 1138,
+    "timeDay": 0,
+    "timeWeek": 1186,
+    "timeMonth": 1130,
     "timeYear": 1161,
     "dailyMinutesDown": {
       "2026-07-18": 713,
@@ -147,7 +151,8 @@
       "2026-09-07": 316,
       "2026-09-10": 222,
       "2026-09-15": 91,
-      "2026-09-23": 133
+      "2026-09-23": 133,
+      "2026-09-26": 15
     }
   },
   {
@@ -155,15 +160,15 @@
     "url": "https://em-punto-venta.concordia.gob.ar",
     "icon": "https://icons.duckduckgo.com/ip3/em-punto-venta.concordia.gob.ar.ico",
     "slug": "em-punto-venta",
-    "status": "up",
-    "uptime": "98.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.73%",
-    "uptimeMonth": "98.18%",
-    "uptimeYear": "98.89%",
+    "status": "down",
+    "uptime": "98.90%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "98.16%",
+    "uptimeYear": "98.90%",
     "time": 1245,
-    "timeDay": 1377,
-    "timeWeek": 1270,
+    "timeDay": 0,
+    "timeWeek": 1266,
     "timeMonth": 1265,
     "timeYear": 1245,
     "dailyMinutesDown": {
@@ -173,7 +178,8 @@
       "2026-09-07": 311,
       "2026-09-10": 218,
       "2026-09-15": 86,
-      "2026-09-23": 128
+      "2026-09-23": 128,
+      "2026-09-26": 10
     }
   },
   {
@@ -181,16 +187,16 @@
     "url": "https://medido-extra.concordia.gob.ar",
     "icon": "https://icons.duckduckgo.com/ip3/medido-extra.concordia.gob.ar.ico",
     "slug": "medido-extra",
-    "status": "up",
-    "uptime": "98.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "98.24%",
-    "uptimeYear": "98.91%",
+    "status": "down",
+    "uptime": "98.92%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "98.23%",
+    "uptimeYear": "98.92%",
     "time": 996,
-    "timeDay": 888,
-    "timeWeek": 972,
-    "timeMonth": 1026,
+    "timeDay": 0,
+    "timeWeek": 1001,
+    "timeMonth": 1017,
     "timeYear": 996,
     "dailyMinutesDown": {
       "2026-07-18": 710,
@@ -199,7 +205,8 @@
       "2026-09-07": 307,
       "2026-09-10": 213,
       "2026-09-15": 81,
-      "2026-09-23": 123
+      "2026-09-23": 123,
+      "2026-09-26": 5
     }
   },
   {
@@ -207,16 +214,16 @@
     "url": "https://sms.concordia.gob.ar",
     "icon": "https://icons.duckduckgo.com/ip3/sms.concordia.gob.ar.ico",
     "slug": "sms-mensajeria",
-    "status": "up",
-    "uptime": "98.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "98.30%",
-    "uptimeYear": "98.93%",
+    "status": "down",
+    "uptime": "98.94%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "98.29%",
+    "uptimeYear": "98.94%",
     "time": 999,
-    "timeDay": 711,
-    "timeWeek": 1023,
-    "timeMonth": 1053,
+    "timeDay": 0,
+    "timeWeek": 1020,
+    "timeMonth": 1050,
     "timeYear": 999,
     "dailyMinutesDown": {
       "2026-07-18": 708,
@@ -225,7 +232,8 @@
       "2026-09-07": 302,
       "2026-09-10": 208,
       "2026-09-15": 76,
-      "2026-09-23": 118
+      "2026-09-23": 118,
+      "2026-09-26": 0
     }
   }
 ]

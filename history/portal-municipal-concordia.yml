@@ -1,7 +1,7 @@
 url: https://concordia.gob.ar
-status: up
+status: degraded
 code: 200
-responseTime: 2550
-lastUpdated: 2026-11-24T06:42:19.074Z
+responseTime: 9348
+lastUpdated: 2026-11-24T10:08:02.756Z
 startTime: 2026-03-12T11:00:31.616Z
 generator: Upptime <https://github.com/upptime/upptime>
